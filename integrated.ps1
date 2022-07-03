@@ -19,6 +19,7 @@ Function program_to_be_install_printout {
     <#
         .SYNOPSIS
             Print out programs to be installed in a formatted manner.
+            etc.
 
         .EXAMPLE
             program_to_be_install_printout -program_list $software_install_list
